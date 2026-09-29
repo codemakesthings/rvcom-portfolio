@@ -21,6 +21,13 @@ body, html {
     -webkit-text-fill-color: transparent;
 
 }
+
+.img-profile{
+    border: 1px linear-gradient(to right, #3BF686 48%, #4CA9FF 90%);
+    max-width: 150px;
+    clip-path: circle(50%);
+}
+
 .nav a{
     color: #ffffff;
     padding: 2em;
