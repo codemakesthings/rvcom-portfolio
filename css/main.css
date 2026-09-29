@@ -1,0 +1,19 @@
+body, html {
+    background-color: #272727;
+    color: #ffffff;
+    font-family: 'Poppins';
+}
+
+#header{
+    border-bottom: 2px solid #4D4D4D;
+}
+
+#logo-text{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p, .nav a{
+    color: #ffffff;
+    padding: 2em;
+}
