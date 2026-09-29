@@ -11,9 +11,17 @@ body, html {
 #logo-text{
     color: #ffffff;
     text-decoration: none;
+    padding: 2em 0em;
 }
 
-p, .nav a{
+.title-text {
+    background: #3BF686;
+    background: linear-gradient(to right, #3BF686 48%, #4CA9FF 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.nav a{
     color: #ffffff;
     padding: 2em;
 }
